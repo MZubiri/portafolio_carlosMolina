@@ -1,0 +1,11 @@
+@use 'styles/variables' as *;
+
+.page-shell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-shell__main {
+  flex: 1;
+}

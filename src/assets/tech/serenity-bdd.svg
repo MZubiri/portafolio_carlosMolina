@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 50" role="img" aria-labelledby="serenity-title">
+  <title id="serenity-title">Serenity BDD</title>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13.5 17.2A20.8 20.8 0 0 1 49.2 11" stroke="#8a8f98" stroke-width="6"/>
+    <path d="M48.8 11h-11" stroke="#8a8f98" stroke-width="6"/>
+    <path d="M48.8 11v11" stroke="#8a8f98" stroke-width="6"/>
+    <path d="M48.5 32.8A20.8 20.8 0 0 1 12.8 39" stroke="#8a8f98" stroke-width="6"/>
+    <path d="M13.2 39h11" stroke="#8a8f98" stroke-width="6"/>
+    <path d="M13.2 39V28" stroke="#8a8f98" stroke-width="6"/>
+  </g>
+  <circle cx="31" cy="25" r="7" fill="#10bfa4"/>
+  <text x="64" y="34" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" letter-spacing="0"><tspan fill="#10bfa4">Se</tspan><tspan fill="#aeb4bd">renity</tspan></text>
+  <text x="195" y="33" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="0" fill="#10d68f">BDD</text>
+</svg>
